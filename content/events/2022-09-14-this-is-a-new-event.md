@@ -1,6 +1,6 @@
 ---
 # The title of the event
-title: This is a new Event
+title: Boi
 # Publishing date when the event appears, not the date of the event.
 date: 2022-09-14
 # Tags that apply to the event
