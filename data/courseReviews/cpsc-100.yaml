@@ -15,3 +15,11 @@ reviews:
     difficulty: 3
     quality: 3
     sessionTaken: 1998W1
+  - author: nien
+    authorLink: https://github.com/csssbot/testing/pull/124
+    date: 2022-11-03
+    review: |
+      niennienniennienniennienniennienniennienniennienniennienniennienniennienniennienniennienniennien
+    difficulty: 3
+    quality: 1
+    sessionTaken: 2010W1
