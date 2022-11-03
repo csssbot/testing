@@ -6,4 +6,11 @@ reviews:
       newBranchNamenewBranchNamenewBranchNamenewBranchNamenewBranchNamenewBranchNamenewBranchNamenewBranchNamenewBranchName
     difficulty: 3
     quality: 3
-    sessionTaken: 2000W1
+    sessionTaken: 2000W1  - author: boiboi
+    authorLink: https://github.com/github/maven-plugins/issues/137
+    date: 2022-11-03
+    review: |
+      boiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboiboi
+    difficulty: 3.5
+    quality: 2.5
+    sessionTaken: 2020S1
